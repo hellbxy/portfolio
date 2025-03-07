@@ -1,0 +1,12 @@
+@import '~scss/functions'; // Import functions first
+
+@import '~scss/variables'; 
+
+@import '~scss/mixins'; 
+
+@import '~scss/root'; 
+
+
+$theme-colors:(
+    "success":   #04b678,
+)
